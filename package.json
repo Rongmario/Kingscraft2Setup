@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Kingscraft 2.0",
+      "name" : "Kingscraft 2.0",
+      "version" : "2015-08-06-10-37-09",
+      "location" : "kingscraft-2.0.json",
+      "priority" : 0
+    }
+  ]
+}
