@@ -8,5 +8,5 @@ Files contain in this repo is as follows:
 # How to install Kingscraft 2 Modpack
 
 - Install MultiMC here = https://multimc.org/
-- Download resources from this repository, it should be a .rar 
+- Download resources from this repository, it should be a .zip = https://www.dropbox.com/s/oaaalmcgoq8ko88/TGI%201.7.10.zip?dl=0
 
